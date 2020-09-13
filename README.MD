@@ -1,6 +1,6 @@
 ## 📑 Portifólio
 
-Esse é meu **portifólio** criado para apresentar os meus trabalhos.
+Esse é meu **portifólio** estarei atualizando com novos trabalhos .
 
 ---
 
